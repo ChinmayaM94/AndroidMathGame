@@ -80,7 +80,7 @@
         android:layout_marginTop="30dp"
         android:ems="10"
         android:hint="Write your answer here"
-        android:inputType="number"
+        android:inputType="numberSigned"
         android:textColor="@color/design_default_color_primary_variant" />
 
     <LinearLayout
